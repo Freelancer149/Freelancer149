@@ -1,13 +1,35 @@
+# 🌟 My Web Development Portfolio  
 
-- 👋 Hi, I’m @Freelancer149
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my portfolio! This repository showcases my web development journey, skills, and projects.  
 
-<!---
-Freelancer149/Freelancer149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me  
+Hi, I'm Uzair — an aspiring web developer passionate about creating clean, responsive, and user-friendly websites. I’m currently learning **HTML**, **CSS**, and **JavaScript** to sharpen my front-end skills.  
+
+---
+
+## 💻 Skills  
+- **HTML5** — Structuring web content  
+- **CSS3** — Styling and layout  
+- **JavaScript (Coming soon)** — Interactivity and dynamic content  
+
+---
+
+## 📁 Projects  
+Here are some projects I've worked on:  
+1. **Personal Portfolio Website** — A simple website showcasing my work and contact details.  
+2. **Product Landing Page** — A clean, responsive page for a mock product.  
+3. **Coming Soon:** Interactive web app built with JavaScript.  
+
+---
+
+## 📫 Contact Me  
+Feel free to connect with me:  
+- **GitHub:** [freelance149](https://github.com/freelancer149)  
+- **Email:** your.email@example.com  
+- **LinkedIn (optional):** [Your LinkedIn Profile](#)  
+
+---
+
+⭐️ **Thanks for visiting!**
