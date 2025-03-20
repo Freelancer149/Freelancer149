@@ -27,8 +27,8 @@ Here are some projects I've worked on:
 ## 📫 Contact Me  
 Feel free to connect with me:  
 - **GitHub:** [freelance149](https://github.com/freelancer149)  
-- **Email:** your.email@example.com  
-- **LinkedIn (optional):** [Your LinkedIn Profile](#)  
+- **Email:** freelnce369@gmail.com
+
 
 ---
 
